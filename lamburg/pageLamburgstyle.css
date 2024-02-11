@@ -1,0 +1,72 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: #2f3035;
+    background-image: url(background-adare-restaurant.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header h1{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+header h2{
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: antiquewhite;
+    text-align: center;
+
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+nav{
+    background-color: rgba(0,0,0,0.338);
+    text-align: center;
+    padding-top:14px;
+    padding-bottom: 14px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a{
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+main{
+    height: 400px;
+    text-align: center;
+    padding-top:  80px; 
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-bottom: 50px;
+}
+h1{
+    font-size: 84px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    font-size: 18px;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer{
+    background-color: rgba(0,0,0,0.728);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+footer p{
+    font-size: 10px;
+    text-align: center;
+    color: rgb(198,198,198);
+}
